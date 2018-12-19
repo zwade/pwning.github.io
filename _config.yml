@@ -3,8 +3,8 @@ title:       "Plaid Parliament of Pwning"
 email:       admin@pwning.net
 author:      PPP
 description: "CTF Team @ Carnegie Mellon University"
-baseurl:     ""
-url:         "http://www.pwning.net"
+baseurl:     "/pwning.github.io/"
+url:         "https://zwade.github.io"
 
 # Google analytics
 google_analytics: UA-53548208-1
